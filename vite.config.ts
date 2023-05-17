@@ -18,6 +18,7 @@ export default defineConfig({
       '@interfaces': '/src/interfaces',
       '@services': '/src/services',
       '@public': '/public',
+      '@constants': '/src/constants'
     }
   },
 })
